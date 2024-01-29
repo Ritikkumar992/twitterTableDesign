@@ -10,4 +10,4 @@
 
 # Assignment_02:📜
 <img src = "https://github.com/Ritikkumar992/twitterSchemaDesign/assets/75531808/bf9f6a7a-4d03-492d-b83e-21301e7fb78c" height = 
-"380px " width = "1000px">
+"380px " width = "1200px">
