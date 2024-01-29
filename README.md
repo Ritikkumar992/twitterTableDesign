@@ -1,8 +1,7 @@
 # Twitter Table Design:🪢
 
 # Assignment_02:📜
-<img src = "https://github.com/Ritikkumar992/twitterSchemaDesign/assets/75531808/bf9f6a7a-4d03-492d-b83e-21301e7fb78c" height = 
-"280px " width = "1000px">
+<img src = "https://github.com/Ritikkumar992/twitterSchemaDesign/assets/75531808/6ec13c1e-782e-4f6a-9237-52ef403a8fe7" height = "280px " width = "1000px">
 
 # Requirements:
 1. System has three users. Vader, Leia and Obi-Wan.
