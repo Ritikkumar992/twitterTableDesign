@@ -3,6 +3,7 @@
 # Assignment_02:📜
 <img src = "https://github.com/Ritikkumar992/twitterSchemaDesign/assets/75531808/b0f9a398-dce2-45bb-ac76-96a7f49ecc89" height = "280px " width = "1000px">
 
+## Requirements:
 
 ## Users
 - Vader
