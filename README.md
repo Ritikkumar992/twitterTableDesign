@@ -5,12 +5,12 @@
 
 ## Requirements:🔆
 
-## Users😁
+## User😁
 - Vader
 - Leia
 - Obi-Wan
 
-### Tweets✔️
+### Tweet✔️
 1. **Vader's Tweet**:
    - Content: "I find your lack of faith disturbing."
    - User: Vader
@@ -21,13 +21,13 @@
 ### Likes🩷
 - **Leia Likes Vader's Tweet**
 
-### Retweets🔗
+### Retweet🔗
 - **Obi-Wan Retweets Vader's Tweet**
 
-### Follows✨
+### Follow✨
 - **Leia follows Vader**
 - **Vader follows Obi-Wan**
 
-### Comments💬
+### Comment💬
 - **Leia comments on Obi-Wan's Tweet**:
   - Content: "Help me, Obi-Wan Kenobi. You're my only hope."
